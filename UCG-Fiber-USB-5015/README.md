@@ -21,7 +21,7 @@ Custom 3D printed active cooling mod for Ubiquiti Cloud Gateway Fiber SFP+ ports
 - **Main Housing**
 - **USB Clamp**
 
-![image](https://github.com/user-attachments/assets/0676b72e-15e7-48c7-800e-355e0f103317)
+![image](https://github.com/fauks/SFP-Cooling/blob/main/UCG-Fiber-USB-5015/images/IMG6.png)
 
 
 
@@ -33,16 +33,16 @@ Custom 3D printed active cooling mod for Ubiquiti Cloud Gateway Fiber SFP+ ports
 4. **Apply** VHB tape to the bottom two recesses under the housing/tab. You can then stick the assembled unit to your Cloud Gateway Fiber, aligning it with the SFP+ cage. 
 5. **Connect** the fan to the USB power source and power on.
 
-![IMG20250531193708](https://github.com/user-attachments/assets/3c4805dc-1457-43cb-a386-0f4f251acc42)
+![IMG20250531193708](https://github.com/fauks/SFP-Cooling/blob/main/UCG-Fiber-USB-5015/images/IMG2.jpg)
 
-![IMG20250531193801](https://github.com/user-attachments/assets/f5185204-545a-422f-9814-0fc81aff0bab)
+![IMG20250531193801](https://github.com/fauks/SFP-Cooling/blob/main/UCG-Fiber-USB-5015/images/IMG3.jpg)
 
 
 
 ## Notes
 
 - Make sure the USB power source is set to 5v for completely silent operation. You can also set it to 9v or 12v if you want more performance and are willing to accept a little more noise.
-- ![image](https://github.com/user-attachments/assets/8f3a40e6-3058-4e50-bfdf-4470362212d7)
+- ![image](https://github.com/fauks/SFP-Cooling/blob/main/UCG-Fiber-USB-5015/images/IMG5.png)
 
 - Test fitment before final assembly. 
 
