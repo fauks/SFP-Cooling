@@ -48,4 +48,4 @@ Custom 3D printed active cooling mod for Ubiquiti Cloud Gateway Fiber SFP+ ports
 
 ## License
 
-MIT
+GPLv3
