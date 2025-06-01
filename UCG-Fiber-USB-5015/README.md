@@ -46,7 +46,7 @@ Supports are only needed for the VHB tab on the main housing and wiring cutout o
 - Make sure the USB power source is set to 5v for completely silent operation. You can also set it to 9v or 12v if you want more performance and are willing to accept a little more noise. These jumper pads limit the maximum negotiation from the power brick, so if you have a 5v brick and have it set to 9v, it will still only output 5v. If your brick is PD capable and can output 12v, if you have the module set to 5v it will only output 5v regardless. 
 - ![image](https://github.com/fauks/SFP-Cooling/blob/main/UCG-Fiber-USB-5015/images/IMG5.png)
 
-- Test fitment before final assembly. 
+- Test fitment before final assembly. You may need to fine tune your flow rate to get the right amount of friction for the fan to keep it in place. 
 
 ## License
 
