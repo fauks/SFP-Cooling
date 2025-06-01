@@ -20,6 +20,8 @@ Custom 3D printed active cooling mod for Ubiquiti Cloud Gateway Fiber SFP+ ports
 
 - **Main Housing**
 - **USB Clamp**
+- 
+Supports are only needed for the VHB tab on the main housing and wiring cutout on the USB clamp piece.
 
 ![image](https://github.com/fauks/SFP-Cooling/blob/main/UCG-Fiber-USB-5015/images/IMG6.png)
 
