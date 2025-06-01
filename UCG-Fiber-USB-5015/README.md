@@ -21,6 +21,9 @@ Custom 3D printed active cooling mod for Ubiquiti Cloud Gateway Fiber SFP+ ports
 - **Main Housing**
 - **USB Clamp**
 
+![image](https://github.com/user-attachments/assets/0676b72e-15e7-48c7-800e-355e0f103317)
+
+
 
 ## Assembly Instructions
 
@@ -29,6 +32,12 @@ Custom 3D printed active cooling mod for Ubiquiti Cloud Gateway Fiber SFP+ ports
 3. **Solder** the 5015 fan wire leads to the positive/gound pads of the module, then clamp the module down with the clamp piece and 2 screws.
 4. **Apply** VHB tape to the bottom two recesses under the housing/tab. You can then stick the assembled unit to your Cloud Gateway Fiber, aligning it with the SFP+ cage. 
 5. **Connect** the fan to the USB power source and power on.
+
+![IMG20250531193708](https://github.com/user-attachments/assets/3c4805dc-1457-43cb-a386-0f4f251acc42)
+
+![IMG20250531193801](https://github.com/user-attachments/assets/f5185204-545a-422f-9814-0fc81aff0bab)
+
+
 
 ## Notes
 
