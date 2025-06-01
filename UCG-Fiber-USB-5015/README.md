@@ -2,6 +2,9 @@
 
 Custom 3D printed active cooling mod for Ubiquiti Cloud Gateway Fiber SFP+ ports. Improves airflow and helps reduce SFP+ module temperature.
 
+![image](https://github.com/user-attachments/assets/6333e289-bdcc-44bf-ae40-5c002b61c46d)
+
+
 ## Parts Required
 
 | Part | Qty | Link |
