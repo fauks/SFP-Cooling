@@ -10,11 +10,17 @@ Custom 3D printed active cooling mod for Ubiquiti Cloud Gateway Fiber SFP+ ports
 
 | Part | Qty | Link |
 |------|-----|------|
-| Sunon 5015 Blower Fan (12v) | 1 | [Digikey](https://www.digikey.com/en/products/detail/sunon-fans/MF50151V1-1B00U-A99/15996446) |
+| Sunon 5015 Blower Fan (12v, 5200) | 1 | [Digikey](https://www.digikey.com/en/products/detail/sunon-fans/MF50151V1-1B00U-A99/15996446) |
 | USB to 5/9/12v Trigger Module | 1 | [Amazon](https://www.amazon.com/JacobsParts-Voltage-Trigger-Module-Type-C/dp/B0C7JXL2KH) |
 | M3 Heatset Inserts | 2 | [Amazon](https://www.amazon.com/Threaded-Inserts-Soldering-Printed-Materials/dp/B0D7M3LJDL) |
 | M3 x 8mm Screws | 2 | [Amazon](https://www.amazon.com/Socket-Screws-Bolts-Thread-100pcs/dp/B07CMQ1SQH) |
 | 1mm VHB Double-Sided Tape | As needed | [Amazon](https://www.amazon.com/Gorilla-Heavy-Double-Sided-Mounting/dp/B082TQ3KB5) |
+
+## For extremely quiet:
+
+| Part | Qty | Link |
+|------|-----|------|
+| Sunon 5015 Blower Fan (12v, 4200rpm) | 1 | [Digikey](https://www.digikey.com/en/products/detail/sunon-fans/MF50151V2-1B00U-A99/15996444) |
 
 ## Printed Parts
 
