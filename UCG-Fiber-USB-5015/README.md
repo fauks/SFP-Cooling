@@ -17,8 +17,7 @@ Custom 3D printed active cooling mod for Ubiquiti Cloud Gateway Fiber SFP+ ports
 | M3 x 8mm Screws | 2 | [Amazon](https://www.amazon.com/Socket-Screws-Bolts-Thread-100pcs/dp/B07CMQ1SQH) |
 | 1mm VHB Double-Sided Tape | As needed | [Amazon](https://www.amazon.com/Gorilla-Heavy-Double-Sided-Mounting/dp/B082TQ3KB5) |
 
-*5200RPM is recommended for any enclosed spaces or warm environments > 24c ambient, 4200RPM for open spaces or cool environments < 24c. 
-*5200RPM is slightly more quiet than a Noctua NF-A4x20 at full speed. 4200RPM is nearly inaudible. 
+*5200RPM is recommended for any enclosed spaces or warm environments > 24c ambient, 4200RPM for open spaces or cool environments < 24c. 5200RPM is slightly more quiet than a Noctua NF-A4x20 at full speed. 4200RPM is nearly inaudible. 
 
 ## Printed Parts
 
